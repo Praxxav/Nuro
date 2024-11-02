@@ -1,0 +1,13 @@
+[2024-11-02 12:23:27] [INFO    ] discord_bot: Logged in as Nuro
+[2024-11-02 12:23:27] [INFO    ] discord_bot: discord.py API version: 2.4.0
+[2024-11-02 12:23:27] [INFO    ] discord_bot: Python version: 3.12.4
+[2024-11-02 12:23:27] [INFO    ] discord_bot: Running on: Windows 11 (nt)
+[2024-11-02 12:23:27] [INFO    ] discord_bot: -------------------
+[2024-11-02 12:23:27] [INFO    ] discord_bot: Loaded extension 'fun'
+[2024-11-02 12:23:27] [ERROR   ] discord_bot: Failed to load extension general
+ExtensionFailed: Extension 'cogs.general' raised an error: AttributeError: 'General' object has no attribute 'grab_id'
+[2024-11-02 12:23:28] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2024-11-02 12:23:28] [INFO    ] discord_bot: Loaded extension 'owner'
+[2024-11-02 12:23:28] [INFO    ] discord_bot: Loaded extension 'template'
+[2024-11-02 12:24:07] [INFO    ] discord_bot: Executed rps command by pranav_k0686 (ID: 1247598625224392756) in DMs
+[2024-11-02 12:29:25] [INFO    ] discord_bot: Executed coinflip command by pranav_k0686 (ID: 1247598625224392756) in DMs
